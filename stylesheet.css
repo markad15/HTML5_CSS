@@ -1,0 +1,8 @@
+body{
+    background-color: blueviolet; 
+    background-image: url(./Header.jpg);
+    background-repeat: repeat-x;
+    height: 1000px;
+    background-image: fixed;
+}
+
