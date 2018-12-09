@@ -1,8 +1,19 @@
-body{
+
+/* body{
     background-color: blueviolet; 
     background-image: url(./Header.jpg);
     background-repeat: repeat-x;
     height: 1000px;
-    background-image: fixed;
+    background-attachment: fixed;
+} */
+
+
+/* shorthand Property */
+body{
+    background: brown url(./Header.jpg) repeat-x fixed;
+    height: 1000px;
+    
 }
+
+
 

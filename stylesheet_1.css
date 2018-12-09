@@ -1,0 +1,72 @@
+.first_div{
+    width: 500px;
+    height: 50px;
+    border-style: solid;
+    border-width: 3px;
+    border-color: darkorange;
+    margin-top: 15px;
+    padding: 25px 10px 15px 10px;
+    color: darkblue;
+    text-align: center;
+    text-transform: capitalize;
+    text-indent: 10px;
+    letter-spacing: 2px;
+    line-height: 25px;
+    word-spacing: 4px;
+
+}
+
+/* Shorthand property*/
+/* 
+.first_div{
+    width: 500px;
+    height: 50px;
+    border: 3px dashed firebrick;
+} */
+
+.second_div{
+    width: 500px;
+    height: 50px;
+    border-top: 3px dashed;
+    border-color: darkslateblue;
+    margin-left: 15px;
+    padding: 15px 25px;
+    color: rgb(139, 28, 0);
+    text-align: right;
+    text-transform: lowercase ;
+    text-indent: 25%;
+    letter-spacing: 1em;
+    line-height: 2em;
+    word-spacing: 4px;
+}
+
+.third_div{
+    width: 500px;
+    height: 50px;
+    border-left: 3px solid;
+    border-color: firebrick;
+    margin-top: 15px;
+    padding: 25px 30px;
+    color: rgb(104, 9, 61);
+    text-align: justify;
+    text-transform: uppercase ;
+    text-indent: 10em;
+    letter-spacing: 5px;
+    line-height: 5em;
+    word-spacing: 10px;
+}
+
+.fourth_div{
+    width: 500px;
+    height: 50px;
+    border-bottom: 3px dotted;
+    border-color: chartreuse;
+    padding: 25px 10px 25px 10px;
+    color: olive;
+    text-align: left;
+    text-transform: inherit;
+    text-indent: 10px;
+    letter-spacing: 2px;
+    line-height: 25px;
+    word-spacing: 4px;
+}
